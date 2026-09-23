@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexklet777.github.io/crypto2card-white-label/sitemap.xml
