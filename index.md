@@ -4,8 +4,6 @@ title: "White Label Crypto Card Platform — CRYPTO2Card by CryptoStoryBank"
 description: "Launch a branded USDT crypto card platform with Visa/Mastercard card programmes, Web, Telegram, Back Office and API integrations. CRYPTO2Card by CryptoStoryBank."
 ---
 
-# White Label Crypto Card Platform — CRYPTO2Card by CryptoStoryBank
-
 **Launch a branded USDT crypto card platform for your exchange, fintech business, wallet, community or existing customer base.**
 
 [**Contact Alexander on Telegram**](https://t.me/Sales_CSB) · [**Try the working CryptoStoryBank product**](https://app.cryptostorybank.com/r/35955243990) · [**Open the Telegram product**](https://t.me/cryptostorybank_bot?start=35955243990) · [**LinkedIn**](https://www.linkedin.com/in/alexanderkletsov/)
