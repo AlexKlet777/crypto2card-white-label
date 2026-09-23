@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#159957">
+    <meta name="robots" content="index,follow">
+
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="CRYPTO2Card by CryptoStoryBank">
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
+    <meta property="og:image" content="https://opengraph.githubassets.com/1/AlexKlet777/crypto2card-white-label">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="600">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+    <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+    <meta name="twitter:image" content="https://opengraph.githubassets.com/1/AlexKlet777/crypto2card-white-label">
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+    </section>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+  </body>
+</html>
