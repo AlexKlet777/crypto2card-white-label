@@ -1,0 +1,8 @@
+title: "White Label Crypto Card Platform — CRYPTO2Card by CryptoStoryBank"
+description: "Launch a branded USDT crypto card platform with Visa/Mastercard card programmes, Web, Telegram, Back Office and API integrations."
+url: "https://alexklet777.github.io"
+baseurl: "/crypto2card-white-label"
+theme: jekyll-theme-cayman
+show_downloads: false
+plugins:
+  - jekyll-sitemap
