@@ -6,7 +6,7 @@ description: "Launch a branded USDT crypto card platform with Visa/Mastercard ca
 
 **Launch a branded USDT crypto card platform for your exchange, fintech business, wallet, community or existing customer base.**
 
-[**Contact Alexander on Telegram**](https://t.me/Sales_CSB) · [**Try the working CryptoStoryBank product**](https://app.cryptostorybank.com/r/35955243990) · [**Open the Telegram product**](https://t.me/cryptostorybank_bot?start=35955243990) · [**LinkedIn**](https://www.linkedin.com/in/alexanderkletsov/)
+[**Contact Alexander on Telegram**](https://t.me/Sales_CSB) · [**Open visual CRYPTO2Card demo**](https://crypto2card-by-cryptostorybank-ea2oxa.v2.appdeploy.ai/) · [**Try the working CryptoStoryBank product**](https://app.cryptostorybank.com/r/35955243990) · [**LinkedIn**](https://www.linkedin.com/in/alexanderkletsov/)
 
 CRYPTO2Card by CryptoStoryBank is a ready-made White Label payment platform that enables partners to launch a branded crypto card and payment service using CryptoStoryBank technology and integrated third-party service providers.
 
