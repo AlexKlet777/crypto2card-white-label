@@ -17,3 +17,26 @@
     padding-bottom: 3.5rem;
   }
 }
+
+.product-proof {
+  margin: 1.5rem 0 2rem;
+}
+
+.product-proof img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
+}
+
+.product-proof a {
+  display: block;
+}
+
+.proof-caption {
+  margin-top: 0.7rem;
+  font-size: 0.92rem;
+  color: #6a737d;
+  line-height: 1.45;
+}
