@@ -47,6 +47,15 @@ You can open the current CryptoStoryBank product before discussing a White Label
 - [CRYPTO2Card product overview](https://crypto2card-by-cryptostorybank-ea2oxa.v2.appdeploy.ai/)
 - [CryptoStoryBank official website](https://cryptostorybank.com/)
 
+## Product screenshots and live implementations
+
+<div class="product-proof">
+  <a href="{{ '/8d8a4b9e-bb95-44ac-8f10-19f949c2595b.png' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/8d8a4b9e-bb95-44ac-8f10-19f949c2595b.png' | relative_url }}" alt="CryptoStoryBank product screenshots with selected public White Label partner implementations including PayWayDay, Satoshi Pay and BAYC Wallet">
+  </a>
+  <p class="proof-caption">Real CryptoStoryBank product interfaces and selected public White Label implementations. Account-specific balances and identifiers are masked in the product screenshots.</p>
+</div>
+
 ## Selected public partner implementations
 
 A small selection of partner implementations that can be viewed publicly:
