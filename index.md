@@ -10,6 +10,9 @@ description: "Launch a branded USDT crypto card platform with Visa/Mastercard ca
 
 CRYPTO2Card by CryptoStoryBank is a ready-made White Label payment platform that enables partners to launch a branded crypto card and payment service using CryptoStoryBank technology and integrated third-party service providers.
 
+> **CryptoStoryBank — Silver Sponsor, TOKEN2049 Singapore 2026**  
+> Listed among the event's 2026 Silver Sponsors. [View the official sponsor list](https://token2049.com/singapore/partners).
+
 ## What a White Label partner gets
 
 - Branded Web application
