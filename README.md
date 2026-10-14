@@ -1,8 +1,24 @@
-# CRYPTO2Card by CryptoStoryBank
+# CRYPTO2Card — White Label Crypto Cards & API by CryptoStoryBank
 
 **White Label Crypto Card Infrastructure for crypto exchanges, fintech companies and communities with an existing audience.**
 
 CRYPTO2Card by CryptoStoryBank is a ready-made White Label payment platform that enables partners to launch a branded crypto payment service using CryptoStoryBank technology and integrated third-party service providers.
+
+## Contact Alexander Kletsov / Александр Клецов
+
+**White Label and API business enquiries:** [Telegram @Sales_CSB](https://t.me/Sales_CSB) · [Email alexandr.kl@cryptostorybank.com](mailto:alexandr.kl@cryptostorybank.com) · [LinkedIn](https://www.linkedin.com/in/alexanderkletsov/).
+
+## Product and integration guides
+
+| Your project | Start here |
+| --- | --- |
+| Branded card platform | [CRYPTO2Card platform overview](https://alexklet777.github.io/crypto2card-white-label/) |
+| Exchange or OTC business | [White Label crypto cards for exchanges](https://alexklet777.github.io/crypto2card-white-label/white-label-crypto-cards-for-exchanges/) |
+| Existing wallet, fintech app or bot | [Crypto card API integration](https://alexklet777.github.io/crypto2card-white-label/crypto-card-api/) |
+| Русскоязычное предложение | [White Label криптокарты и API](https://alexklet777.github.io/crypto2card-white-label/ru/) |
+| Direct business contact | [Alexander Kletsov](https://alexklet777.github.io/crypto2card-white-label/alexander-kletsov/) |
+
+This repository contains the public product website and business information. It is not an open-source card-issuing backend or an API SDK. Technical documentation and integration access are arranged during project scoping.
 
 ## Core White Label capabilities
 
@@ -89,6 +105,3 @@ Business Development / White Label Partnerships
 
 If you are evaluating a crypto card White Label solution, contact Alexander to discuss your audience, target markets, card programme availability and tailored launch terms.
 
----
-
-**Keywords:** white label crypto card, crypto card issuing platform, USDT card white label, Visa crypto card, Mastercard crypto card, stablecoin card, crypto payment platform, white label fintech, crypto card API, launch crypto card programme, CryptoStoryBank, CRYPTO2Card.

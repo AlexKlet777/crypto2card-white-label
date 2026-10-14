@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "White Label Crypto Card Platform — CRYPTO2Card by CryptoStoryBank"
-description: "Launch a branded USDT crypto card platform with Visa/Mastercard card programmes, Web, Telegram, Back Office and API integrations. CRYPTO2Card by CryptoStoryBank."
+description: "White Label USDT card platform: Web, Telegram, Back Office and API. CRYPTO2Card by CryptoStoryBank. Contact Alexander Kletsov: @Sales_CSB."
 ---
 
 **Launch a branded USDT crypto card platform for your exchange, fintech business, wallet, community or existing customer base.**
@@ -12,6 +12,15 @@ CRYPTO2Card by CryptoStoryBank is a ready-made White Label payment platform that
 
 > **CryptoStoryBank — Silver Sponsor, TOKEN2049 Singapore 2026**  
 > Listed among the event's 2026 Silver Sponsors. [View the official sponsor list](https://token2049.com/singapore/partners).
+
+## Choose your launch route
+
+- [White Label crypto cards for exchanges and OTC businesses](https://alexklet777.github.io/crypto2card-white-label/white-label-crypto-cards-for-exchanges/) — add a branded card service for your existing audience.
+- [Crypto card API for wallets, fintech applications and Telegram bots](https://alexklet777.github.io/crypto2card-white-label/crypto-card-api/) — connect agreed capabilities to your own product.
+- [Криптокарты под вашим брендом — предложение на русском](https://alexklet777.github.io/crypto2card-white-label/ru/).
+- [Alexander Kletsov — direct White Label and API contact](https://alexklet777.github.io/crypto2card-white-label/alexander-kletsov/).
+
+**Alexander Kletsov · Telegram [@Sales_CSB](https://t.me/Sales_CSB) · [alexandr.kl@cryptostorybank.com](mailto:alexandr.kl@cryptostorybank.com)**
 
 ## What a White Label partner gets
 
